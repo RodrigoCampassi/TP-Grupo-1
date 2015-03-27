@@ -2,7 +2,7 @@
 
 int main(){
   
-  int edad;
+  int i;
   
   
 }
